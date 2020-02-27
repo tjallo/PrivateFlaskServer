@@ -1,1 +1,2 @@
-from sources import secrets
+import flask
+from sources import secret

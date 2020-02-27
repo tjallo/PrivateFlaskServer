@@ -1,3 +1,5 @@
 sources/secret.py
 __pycache__/
 *.py[cod]
+*.pyc
+sources/__pycache__/
