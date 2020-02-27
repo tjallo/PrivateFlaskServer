@@ -1,1 +1,1 @@
-LastFM_API_KEY = "Some dank memes" 
+LastFM_API_KEY = "Some dank meme" 
